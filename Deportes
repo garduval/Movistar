@@ -12,6 +12,43 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/119319.m3u
 #EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="Movistar Plus+ 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Movistar Plus+ 2 SD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/119320.m3u
 
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 4K
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116104.m3u
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes HD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116105.m3u
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes SD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116106.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 2 4K
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116107.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 2 HD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116108.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 2 SD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116109.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 3 4K
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116110.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 3 HD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116111.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 3 SD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116112.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 4 4K
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116113.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 4 HD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116114.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 4 SD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116115.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 5 4K
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116116.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 5 HD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116117.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 5 SD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116118.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 6 4K
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116119.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 6 HD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116120.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 6 SD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116121.m3u
+
 #EXTINF:-1 tvg-id="Betis TV" tvg-name="Betis FC FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD",Betis FC FHD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116257.m3u
 
